@@ -5,12 +5,14 @@ As you may recall from a previous class exercise, we had you build out the Price
 
 1. Add Firebase via Swift Package Manager.  Be sure to add `Firebase` as well as `FirebaseFirestore` and `FirebaseFirestoreSwift`.
 
+1. Add the `GoogleService-Info.plist` file that was provided on Slack.
+
 1. Make sure that those modules are added to both the `PriceCheckFBApp` and the `LocationRepository`.
 
 1. Fix the code in `LocationRepository` so that it can retrieve the data from this Firestore instance. (See comments provided; the BookManager example could also be helpful here.)
 
-  This is what the Firestore instance looks like:
-  <img src="https://i.imgur.com/lRqafZY.png" width="90%"/>
+    This is what the Firestore instance looks like:
+    <img src="https://i.imgur.com/lRqafZY.png" width="90%"/>
  
 
 If this is all done correctly, when you build the project, it should properly populate from Firestore and build an app with the same output as the last PriceCheck exercise.
