@@ -16,3 +16,5 @@ As you may recall from a previous class exercise, we had you build out the Price
  
 
 If this is all done correctly, when you build the project, it should properly populate from Firestore and build an app with the same output as the last PriceCheck exercise.
+
+<img src="https://i.imgur.com/3RUrLaU.png" width="50%"/>
