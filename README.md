@@ -15,15 +15,15 @@ Your mission for the first checkpoint is to modify `PriceScan.swift` and `Locati
 
 We want you to refactor your code into a `ScanListView`, a `LocationView`, and a `ScanView`.  Once you have done that, edit the `ScanView` such that it appears like the image below, with the price right-aligned and in bold:
 
-<img src="https://i.imgur.com/3G6h1zr.png" width=45%"/>
+<img src="https://i.imgur.com/3G6h1zr.png" width="45%"/>
 
 **Checkpoint 3**
 
 With your refactored code, we want you to add some navigation so that you can touch a table cell and you will be brought to the scan details view as seen in the two images below:
 
-<img src="https://i.imgur.com/3G6h1zr.png" width=45%"/>
+<img src="https://i.imgur.com/3G6h1zr.png" width="45%"/>
 
-<img src="https://i.imgur.com/kEy1psE.png" width=45%"/>
+<img src="https://i.imgur.com/kEy1psE.png" width="45%"/>
 
 **Bonus**
 
